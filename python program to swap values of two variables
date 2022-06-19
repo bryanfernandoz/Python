@@ -1,0 +1,11 @@
+//python program to swap values of two variables
+
+a=float(input("Value of a: "))  
+b=float(input("value of b: "))  
+temp=a   
+a=b  
+b=temp  
+print("After swapping the Value of a is:",a)
+print("After swapping the Value of b is:",b)
+
+//💻
