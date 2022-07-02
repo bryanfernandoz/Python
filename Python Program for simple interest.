@@ -1,0 +1,11 @@
+// Python Program for simple interest.
+
+p=input('principle is:')
+t=input('time period is:')
+i=input('rate of interest is:')
+
+si=(p*t*r)/100
+
+print "the simple interest is",si
+
+//💻
