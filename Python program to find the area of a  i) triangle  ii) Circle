@@ -1,0 +1,13 @@
+//  Python program to find the area of a  i) triangle  ii) Circle
+
+r=float(input('enter radius :'))
+h=float(input('enter height :'))
+b=float(input('enter breath:'))
+
+acr=3.14*r*r
+print "area of the circle is :",acr
+
+ati=0.5*h*b
+print "area of the trinagle is :",ati
+
+//💻
