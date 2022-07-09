@@ -1,0 +1,14 @@
+//Python program to take a character and check whether it is alphabet, number or special character.
+
+ch=input("enter the char:")
+
+if((ch >= 'A' and ch <= 'B') or (ch >= 'a' and ch <= 'b')):
+    print(ch,"is an alphabet!!")
+    
+elif(ch >= '0' and ch <= '9'):
+    print(ch,"is a number !!")
+    
+else:
+    print(ch," is special char !!")
+
+//💻
