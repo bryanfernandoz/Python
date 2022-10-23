@@ -1,4 +1,4 @@
-// Pyhton Program to find the factorial of the given Number
+// Python Program to find the factorial of the given Number
 
 n=int(input("enter the no."))
 f=1
