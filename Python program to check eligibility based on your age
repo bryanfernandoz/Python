@@ -1,0 +1,14 @@
+//Python program to check eligibility based on your age
+
+Birth_year = int(input("Birth year ? "))
+eligble = 2022 - Birth_year
+print("your age:", eligble)
+if(eligble > 18):
+    
+    print( "you are Eligble")
+    
+else:
+    
+    print("not eligble")
+    
+    //💻
